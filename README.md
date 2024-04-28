@@ -1,6 +1,11 @@
 The Gaming Room was a company that wanted to contract out the development of a relatively simple game to be distributedfrom a web-based service.
+
 If I had to say I did anything particularly well it would probably be my consideration of the potential user experience. For example noting that, in theory, a leaderboard of some kind would likely be a relatively easy but significant benefit to that user experience.
+
 For me, the most helpful part about working through a design document was simply the benefit of having a template. I suffer heavily from staring blankly at a blank document and trying to think of how I should begin any given assignment, so being given what is essentially a list to fill in greatly benefitted my efficiency.
+
 If I could revise any of my previous work, I would probably focus on changing the way I word sentences and explain ideas. I have tried pretty much since I began writing as a child to fix the way I manage to ramble on about some tangent vaguely related to the subject simply because I like explaining things, as I feel it enhances my own understanding. However, I am also old enough at this point that I feel it is almost stylistic, and would lose a part of feeling like I wrote it without that factor.
+
 I feel like I addressed a user's needs through pretty much everything within the project. Memory and storage effects the user experience, in this case, by making sure that each user in a game is served the same image at the same time, and that the game remains responsive and quick-feeling throughout.
+
 I did most of my design work for the project by essentially building on intuition and thinking of how ideas that came from that would be likely to play out. For example, in my mention of social features in the game, intuitively, social features seem like a fairly obvious thing to add to the game. However, social features, like a friends list or a messaging system, would be essentially meaningless without other structures and features surrounding them, like matchmaking of some kind, so that users will actually be in some kind of contact with users they do not already know beforehand. In this case, intuitively, social features are a good thing to add, but applying logic and experience to the situation, they would be meaningless on their own.
