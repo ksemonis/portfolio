@@ -26,3 +26,11 @@ I would say the actual implementation was the most challenging for me, as, for p
 Security was layered by adding multiple instances of different ways of securing different parts of the program. HTTPS was implemented as one layer, being sure that the code itself was secure was another layer, and certificates were another layer, for a few examples. I would likely continue to use the dependency check system as used in the course in the future, but I am confident enough in the idea that similar systems exist for things like other languages that I won't even google it to be sure and accept it as probably true; therefore, I would probably use those, as well.
 I checked to be sure the code was functional by, fairly obviously, running it and seeing if it produced the desired result, then, if it did not, I tried to figure out what I did to make the program produce the given result, instead. To be sure of its security, I tried to code in a way that would be as difficult as possible to exploit, while also trying to keep it from impacting normal use in a negative way. For checking for new vulnerabilities after a change in the code, I typically re-ran the vulnerability check.
 The biggest resource continues to be googling any issue that arises, as it is very likely that any issue that I came across, someone else has also run into something at least similar enough that a solution can be adapted from them.
+
+
+CS-320
+To make sure code is functional and secure, it needs to be tested, through unit testing, integration testing, and system testing at minimum, with any further testing being even better. These tests should help a programmer find vulnerabilities, like non-validated inmputs and unencrypted data.
+
+Interpreting user needs is best done by keeping the actual interpretation to a minimum, the person gathering the requirements should ask every relevant question he or she can think of, while always doing his or her best to try and think from the user's perspective. Then, once these requirements are as boiled-down as possible, create features of the program for those requirements to be fulfilled.
+
+The most important thing to keep in mind when designing software is to keep a clear, identifiable goal in mind for that software. 
