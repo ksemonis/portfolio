@@ -34,3 +34,6 @@ To make sure code is functional and secure, it needs to be tested, through unit 
 Interpreting user needs is best done by keeping the actual interpretation to a minimum, the person gathering the requirements should ask every relevant question he or she can think of, while always doing his or her best to try and think from the user's perspective. Then, once these requirements are as boiled-down as possible, create features of the program for those requirements to be fulfilled.
 
 The most important thing to keep in mind when designing software is to keep a clear, identifiable goal in mind for that software. 
+
+
+I typically try and approach designing software the same way I approach most things. I try to identify exactly what I want to get out of solving that problem, and then sort of work backwards from my vision of that outcome, and think of how things would be with that outcome. With those things in mind, I try and break down each aspect and facet of it into individual parts, then try and think of ways to make those things happen. The biggest thing I feel this project really helped with was in a sort of sense of pacing, because in this project the vast majority of the changes I made over the course of developing it were tiny, minute changes to the position of thigns within the scene, which each took about 5 seconds to see the results of. 
